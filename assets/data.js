@@ -17,7 +17,7 @@ const elmEvents = [
     },
     {
         event: "Morning Market",
-        image: "./assets/images/morningRun.jpg",
+        image: "./assets/images/parkMarket.jpeg",
         description: "Hizzle izzle doggy sit break yo neck, yall gangsta stuff sagittis. Dang i’m in the shizzle pede izzle bow wow wow.",
         ageRestriction: "All Ages",
         date: [{
@@ -32,7 +32,7 @@ const elmEvents = [
     },
     {
         event: "Evening Outdoor Cinema",
-        image: "./assets/images/morningRun.jpg",
+        image: "./assets/images/elmStreet.jpeg",
         description: "Etiam a magna dope augue hendrerit accumsizzle. Aenizzle break it down ghetto.",
         ageRestriction: "+18",
         date: [{
@@ -42,7 +42,7 @@ const elmEvents = [
         }],
         price: "£5",
         location: "Elm Street Central Park",
-        moreInfo: "Please contact us to make a Reservation, tickets subject to Availability",
+        moreInfo: "Please contact us to make a Reservation.",
         id: 3
     },
     {
@@ -62,7 +62,7 @@ const elmEvents = [
     },
     {
         event: "Morning Market",
-        image: "./assets/images/morningRun.jpg",
+        image: "./assets/images/elmParkMarket.jpeg",
         description: "Etiam a magna dope augue hendrerit accumsizzle. Aenizzle break it down ghetto.",
         ageRestriction: "All Ages",
         date: [{
@@ -77,7 +77,7 @@ const elmEvents = [
     },
     {
         event: "Halloween Carnival",
-        image: "./assets/images/morningRun.jpg",
+        image: "./assets/images/halloweenCarnival.jpeg",
         description: "Lorizzle ipsum stuff sizzle nizzle, consectetuer break it down elit. Ghetto sapizzle yo, daahng dawg volutpat, suscipit quis, gravida boom shackalack, arcu.",
         ageRestriction: "All Ages",
         date: [{
@@ -92,7 +92,7 @@ const elmEvents = [
     },
     {
         event: "Evening Outdoor Cinema",
-        image: "./assets/images/morningRun.jpg",
+        image: "./assets/images/halloween.webp",
         description: "Praesent bling bling shiz izzle mofo check out this molestie. Vivamus vestibulum yo vizzle massa.",
         ageRestriction: "+18",
         date: [{
@@ -102,12 +102,12 @@ const elmEvents = [
         }],
         price: "£5",
         location: "Elm Street Central Park",
-        moreInfo: "Please contact us to make a Reservation, tickets subject to Availability",
+        moreInfo: "Please contact us to make a Reservation.",
         id: 7
     },
     {
         event: "Creepiest Costume",
-        image: "./assets/images/morningRun.jpg",
+        image: "./assets/images/HalloweenCostume.jpeg",
         description: "Hizzle izzle doggy sit break yo neck, yall gangsta stuff sagittis. Dang i’m in the shizzle pede izzle bow wow wow.",
         ageRestriction: "All Ages",
         date: [{
@@ -117,12 +117,12 @@ const elmEvents = [
         }],
         price: "£2",
         location: "Elm Street Recreation Center",
-        moreInfo: "Please contact us to make a Reservation, tickets subject to Availability",
+        moreInfo: "Please contact us to make a Reservation.",
         id: 8
     },
     {
         event: "Family Trick or Treat",
-        image: "./assets/images/morningRun.jpg",
+        image: "./assets/images/trickOrTreat.webp",
         description: "Praesent bling bling shiz izzle mofo check out this molestie. Vivamus vestibulum yo vizzle massa.",
         ageRestriction: "All Ages",
         date: [{
@@ -132,12 +132,12 @@ const elmEvents = [
         }],
         price: "£10",
         location: "Elm Street Central Park",
-        moreInfo: "Please contact us to make a Reservation, tickets subject to Availability",
+        moreInfo: "Please contact us to make a Reservation.",
         id: 9
     },
     {
         event: "Halloween Carnival",
-        image: "./assets/images/morningRun.jpg",
+        image: "./assets/images/halloweenCarnival.jpeg",
         description: "Lorizzle ipsum stuff sizzle nizzle, consectetuer break it down elit. Ghetto sapizzle yo, daahng dawg volutpat, suscipit quis, gravida boom shackalack, arcu.",
         ageRestriction: "All Ages",
         date: [{
@@ -147,7 +147,7 @@ const elmEvents = [
         }],
         price: "£10",
         location: "Elm Street Central Park",
-        moreInfo: "Please contact us to make a Reservation, tickets subject to Availability",
+        moreInfo: "Please contact us to make a Reservation.",
         id: 10
     },
 ]
